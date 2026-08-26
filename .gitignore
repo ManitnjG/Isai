@@ -8,3 +8,6 @@ captures/
 .cxx/
 __pycache__/
 *.pyc
+keystore.properties
+*.jks
+*.keystore
